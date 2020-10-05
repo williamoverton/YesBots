@@ -1,0 +1,11 @@
+# Created by Kenney (www.kenney.nl)
+
+newmtl _defaultMat
+Kd 0 0 0
+
+newmtl metalDark
+Kd 1 1 1
+
+newmtl dark
+Kd 0.2235294 0.2352941 0.2745098
+
